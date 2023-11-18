@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "graphene-start"
+name = "python-start-template"
 version = "0.1.0"
 description = ""
 authors = ["Luis Guilherme de Souza Munhoz <luisguilherme.sm@hotmail.com>"]
